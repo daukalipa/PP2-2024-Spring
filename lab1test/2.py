@@ -1,2 +1,4 @@
-x = 5
+x = True
 print(type(x))
+
+bool 
